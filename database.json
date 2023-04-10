@@ -41,6 +41,12 @@
         "fullName": "Jeremy Bakker",
         "isStaff": true,
         "id": 7
+      },
+      {
+        "email": "jeremy@bakkqqer.com",
+        "fullName": "Jeremy Bakkqqer",
+        "isStaff": true,
+        "id": 8
       }
     ],
     "customers": [
